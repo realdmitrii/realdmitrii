@@ -31,13 +31,15 @@ https://dapper-frangollo-6cdc5f.netlify.app/
 
 ### 📊  Статистика:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realdmitrii&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realdmitrii)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii&layout=compact" />
-</a>
-</div>
+
+---
+
+### 📫 Контакты:
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/realdmitrii)
+
 <!--
 **realdmitrii/realdmitrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

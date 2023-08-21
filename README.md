@@ -1,6 +1,6 @@
 ### Hi there 👋 
-### Welcome to my git
-## Я - начинающий Front-end developer (Intern -> Junior)
+### Welcome to my git 
+## &#128640; Я - начинающий Front-end developer (Intern -> Junior)
 
 - Люблю программирование с детства(начиная с Sinclair BASIC на ZX Spectrum)
 - Быстро обучаюсь новому.
@@ -13,16 +13,27 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+
+---
+### &#128736; Мои проекты:
+- в н. в. cтажировка в проекте "Киноточка"
+Командный проект (TypeScript, React.js)
+https://movie-recommendations.github.io/frontend/
+
+- учебный проект "Монополия онлайн"
+Командный проект (TypeScript, React.js, SCSS)
+https://monopoly-client-roan.vercel.app/
+
+- учебный проект "Мессенджер"
+Самостоятельный проект (TypeScript, Handlebars, SCSS)
+https://dapper-frangollo-6cdc5f.netlify.app/
+
+### &#x1F5A9;  Статистика:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realdmitrii&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=realdmitrii&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=realdmitrii&hide=contribs&show_icons=true" />
-</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii&layout=compact">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii&layout=compact" />
 </a>

@@ -1,5 +1,6 @@
-### Hi there 👋 Welcome to my git
-Начинающий Front-end developer (Junior, Intern)
+### Hi there 👋 
+### Welcome to my git
+## Я - начинающий Front-end developer (Intern -> Junior)
 
 - Люблю программирование с детства(начиная с Sinclair BASIC на ZX Spectrum)
 - Быстро обучаюсь новому.
@@ -13,11 +14,19 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://www.flowgear.net/wp-content/uploads/2019/03/Rest-API-Large.png" title="REST API" alt="REST API" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realdmitrii&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=realdmitrii&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=timuritodev&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timuritodev&layout=compact" />
+</a>
+</div>
 <!--
 **realdmitrii/realdmitrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -21,10 +21,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=realdmitrii&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=timuritodev&hide=contribs&show_icons=true" />
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=realdmitrii&hide=contribs&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timuritodev&layout=compact" />
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdmitrii&layout=compact" />
 </a>
 </div>
 <!--

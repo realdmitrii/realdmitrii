@@ -16,7 +16,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 
 ---
-### &#128736; Мои проекты:
+### &#127919; Мои проекты:
 - в н. в. cтажировка в проекте "Киноточка"
 Командный проект (TypeScript, React.js)
 https://movie-recommendations.github.io/frontend/
@@ -29,7 +29,7 @@ https://monopoly-client-roan.vercel.app/
 Самостоятельный проект (TypeScript, Handlebars, SCSS)
 https://dapper-frangollo-6cdc5f.netlify.app/
 
-### &#x1F5A9;  Статистика:
+### 📊  Статистика:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realdmitrii&theme=dark&background=000000)](https://git.io/streak-stats)
 

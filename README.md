@@ -29,6 +29,8 @@ https://monopoly-client-roan.vercel.app/
 Самостоятельный проект (TypeScript, Handlebars, SCSS)
 https://dapper-frangollo-6cdc5f.netlify.app/
 
+---
+
 ### 📊  Статистика:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realdmitrii)](https://git.io/streak-stats)

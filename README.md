@@ -20,7 +20,7 @@
 ### &#127919; Мои проекты:
 - в н. в. cтажировка в проекте "Киноточка"
 Командный проект (TypeScript, React.js)
-https://movie-recommendations.github.io/frontend/
+http://kinotochka.acceleratorpracticum.ru/
 
 - учебный проект "Монополия онлайн"
 Командный проект (TypeScript, React.js, SCSS)

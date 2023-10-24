@@ -1,6 +1,5 @@
-### Hi there 👋 
-### Welcome to my git 
-## &#128640; Frontend developer
+### Hi there 👋   Welcome to my git 
+## &#128640; Dmitrii Popov, Frontend developer
 
 - Хочу делать удобные и понятные интерфейсы
 - Быстро обучаюсь новому
@@ -18,19 +17,21 @@
 
 ---
 ### &#127919; Мои проекты:
-- в н. в. cтажировка в проекте "Киноточка"
-Командный проект (TypeScript, React.js)
-http://kinotochka.acceleratorpracticum.ru/
+- в н. в. cтажировка в проекте "Киноточка" Командный проект (TypeScript, React.js)  
+[http://kinotochka.acceleratorpracticum.ru/](http://vm-f7405346.na4u.ru)
 
-- учебный проект "Монополия онлайн"
-Командный проект (TypeScript, React.js, SCSS)
+- "Монополия онлайн" Командный проект (TypeScript, React.js, SCSS)  
 https://monopoly-client-roan.vercel.app/
 
-- учебный проект "Мессенджер"
-Самостоятельный проект (TypeScript, Handlebars, SCSS)
+- "Мессенджер" Самостоятельный проект (TypeScript, Handlebars, SCSS)  
 https://dapper-frangollo-6cdc5f.netlify.app/
 
+- Landing-page Burgers (Angular)  
+https://realdmitrii.github.io/burgers/
+
 ---
+
+
 
 ### 📊  Статистика:
 

@@ -29,8 +29,8 @@ https://dapper-frangollo-6cdc5f.netlify.app/
 - Landing-page Burgers (Angular)  
 https://realdmitrii.github.io/burgers/
 
-- RSS tasks: 
-  [Audioplayer](https://rolling-scopes-school.github.io/realdmitrii-JSFEPRESCHOOL2023Q2/library/) [Image-gallery](https://rolling-scopes-school.github.io/realdmitrii-JSFEPRESCHOOL2023Q2/image-gallery/) [Library LP](https://rolling-scopes-school.github.io/realdmitrii-JSFEPRESCHOOL2023Q2/library/) [Game Bit Breaker](https://rolling-scopes-school.github.io/realdmitrii-JSFEPRESCHOOL2023Q2/game/)
+- RSS tasks:  
+  [Audioplayer](https://rolling-scopes-school.github.io/realdmitrii-JSFEPRESCHOOL2023Q2/library/) [Image-gallery](https://rolling-scopes-school.github.io/realdmitrii-JSFEPRESCHOOL2023Q2/image-gallery/) [Library LP](https://rolling-scopes-school.github.io/realdmitrii-JSFEPRESCHOOL2023Q2/library/) [Game Bit Breaker](https://rolling-scopes-school.github.io/realdmitrii-JSFEPRESCHOOL2023Q2/game/) [MemeSlider](https://realdmitrii.github.io/cssMemeSlider/cssMemeSlider/)
 
 ---
 

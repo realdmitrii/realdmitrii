@@ -18,7 +18,7 @@
 ---
 ### &#127919; Мои проекты:
 - в н. в. cтажировка в проекте "Киноточка" Командный проект (TypeScript, React.js)  
-[http://kinotochka.acceleratorpracticum.ru/](http://vm-f7405346.na4u.ru)
+[http://kinotochka.site/](http://kinotochka.site/)
 
 - "Монополия онлайн" Командный проект (TypeScript, React.js, SCSS)  
 https://monopoly-client-roan.vercel.app/
